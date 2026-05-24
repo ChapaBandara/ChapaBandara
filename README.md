@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&text=Chapa%20Bandara&fontSize=50&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:2196F3&height=100&section=header" width="100%"/>
 </p>
 
 ---
