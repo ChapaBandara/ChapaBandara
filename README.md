@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
