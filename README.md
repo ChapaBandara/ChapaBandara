@@ -48,6 +48,7 @@
 | [🎓 Student Record System](https://github.com/ChapaBandara/student-record-management-system) | Full-stack admin system with CRUD & RESTful API | Node.js, Bootstrap, AJAX |
 | [🎸 Yaka Crew Band Website](https://github.com/Yaka-Crew-Band-Website/Yaka-Crew-Band-Website) | Music band site with gallery, events, booking & admin panel | HTML, CSS, JS, PHP, MySQL |
 | [💎 Aurora Gem & Jewellery](https://github.com/ChapaBandara/Aurora-Gem-and-Jewellery) | Full e-commerce store with cart & checkout flow | HTML, CSS, JS, PHP, MySQL |
+| [📱 Study Tracker](https://github.com/ChapaBandara/study-tracker-android-app) | Android productivity app with task manager, timetable & motivational quotes | Java, Android Studio |
 
 
 ---
