@@ -14,11 +14,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Reading for BSc (Hons) Computer Science — University of Bedfordshire
+- 🎓 Reading for BSc (Hons) Computer Science 
 - 💡 Passionate about building clean, user-centred digital products
-- 📱 Currently developing a Flutter/Firebase Healthcare & Medication App
 - 🔧 Experienced across mobile, web, and desktop — from UI prototype to deployment
-- 🎵 ABRSM certified — music sharpens the discipline behind the code
+
 
 ---
 
@@ -48,7 +47,7 @@
 | [🎓 Student Record System](https://github.com/ChapaBandara/student-record-management-system) | Full-stack admin system with CRUD & RESTful API | Node.js, Bootstrap, AJAX |
 | [🎸 Yaka Crew Band Website](https://github.com/Yaka-Crew-Band-Website/Yaka-Crew-Band-Website) | Music band site with gallery, events, booking & admin panel | HTML, CSS, JS, PHP, MySQL |
 | [💎 Aurora Gem & Jewellery](https://github.com/ChapaBandara/Aurora-Gem-and-Jewellery) | Full e-commerce store with cart & checkout flow | HTML, CSS, JS, PHP, MySQL |
-| 💊 Health & Medication App | Flutter/Firebase healthcare app with AI reminders *(ongoing)* | Flutter, Firebase |
+
 
 ---
 
