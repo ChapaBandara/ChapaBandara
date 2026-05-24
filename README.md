@@ -53,10 +53,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=tokyonight" width="31%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChapaBandara&theme=tokyonight" width="31%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=tokyonight" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=tokyonight" height="180em" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChapaBandara&theme=tokyonight" height="180em" width="45%"/>
 </p>
 
 <p align="center">
