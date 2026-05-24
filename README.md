@@ -50,12 +50,11 @@
 
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChapaBandara&theme=tokyonight" width="45%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
