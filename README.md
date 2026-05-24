@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Chapa Bandara</h1>
-<h3 align="center">Full-Stack & Mobile Developer | UI/UX Enthusiast | CS Undergraduate 🇱🇰</h3>
+<h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate </h3>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Flutter+%7C+PHP+%7C+Firebase+Developer;UI%2FUX+Driven+Design+Thinker;Building+Real-World+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 BSc (Hons) Computer Science — University of Bedfordshire (via SLIIT City Uni)
-- 💼 Seeking an internship in full-stack or mobile development
-- 🌱 Currently building a **Flutter/Firebase Health & Medication App**
-- 🎯 Specialises in **UI/UX-driven development** with Flutter, PHP & Firebase
-- 🎵 ABRSM certified musician on the side!
+- 🎓 Reading for BSc (Hons) Computer Science 
+- 💡 Passionate about building clean, user-centred digital products
+- 🔧 Experienced across mobile, web, and desktop — from UI prototype to deployment
 
 ---
 
