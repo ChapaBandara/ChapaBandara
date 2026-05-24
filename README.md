@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,php,js,java,nodejs,mysql,firebase,figma,git&perline=5&theme=dark" />
   </a>
 </p>
----
+
 
 ### 🧑‍💻 About Me
 - 🎓 Reading for BSc (Hons) Computer Science 
@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
----
+
 
 ### 🤝 Connect with Me
 
