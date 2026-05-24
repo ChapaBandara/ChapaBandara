@@ -8,9 +8,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:2196F3&height=100&section=header" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=ChapaBandara&label=Profile+Views&color=2196F3&style=for-the-badge" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ChapaBandara?label=Followers&style=for-the-badge&color=2196F3" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ChapaBandara?label=Stars&style=for-the-badge&color=2196F3" alt="stars"/>
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
