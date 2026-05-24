@@ -53,17 +53,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=github_dark" width="31%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=github_dark" width="31%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChapaBandara&theme=github_dark&utcOffset=5.5" width="31%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChapaBandara&theme=github_dark" width="95%"/>
-
-<img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="55%"/>
+</p>
 ---
 
 ### 🤝 Connect with Me
