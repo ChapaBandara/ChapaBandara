@@ -7,9 +7,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=80&section=header&fontSize=20" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 
 ---
 
