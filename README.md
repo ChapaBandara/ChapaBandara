@@ -7,7 +7,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
