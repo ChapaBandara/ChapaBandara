@@ -8,11 +8,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChapaBandara&label=Profile+Views&color=2196F3&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ChapaBandara?label=Followers&style=for-the-badge&color=2196F3" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ChapaBandara?label=Stars&style=for-the-badge&color=2196F3" alt="stars"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,js,java,nodejs,mysql,firebase,figma,git&perline=5&theme=dark" />
+  </a>
 </p>
 ---
 
