@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+%7C+PHP+%7C+Firebase+Developer;Building+User-Centred+Digital+Products;Mobile%2C+Web+%26+Desktop+Engineer;CS+Undergraduate+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=80&section=header&fontSize=20" width="100%"/>
 </p>
 
 ---
