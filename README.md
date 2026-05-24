@@ -38,7 +38,7 @@
 |--------|-------------|------|
 | [🎮 HeartMatch](https://github.com/ChapaBandara/heartmatch-multiplayer-game-system) | Multiplayer card game with real-time leaderboard & tournaments | PHP, MySQL, JS |
 | [🎓 Student Record System](https://github.com/ChapaBandara/student-record-management-system) | Full-stack admin system with CRUD & RESTful API | Node.js, Bootstrap, AJAX |
-| 💊 Health & Medication App | Flutter/Firebase healthcare app with AI reminders *(ongoing)* | Flutter, Firebase |
+
 
 ---
 
