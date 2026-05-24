@@ -55,12 +55,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=github_dark" width="31%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=github_dark" width="31%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChapaBandara&theme=github_dark&utcOffset=5.5" width="31%"/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChapaBandara&theme=github_dark" width="95%"/>
 
-<img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>
 ---
