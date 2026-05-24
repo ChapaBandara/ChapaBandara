@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chapa Bandara</h1>
-<h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate 🇱🇰</h3>
+<h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate </h3>
 
 <br/>
 
