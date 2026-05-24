@@ -54,18 +54,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF&count_private=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF&langs_count=8" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=tokyonight" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChapaBandara&theme=tokyonight&utcOffset=5.5" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=tokyonight" width="31%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=2196F3&fire=FF6B6B&currStreakLabel=2196F3&dates=FFFFFF" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChapaBandara&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChapaBandara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=2196F3&fire=FF6B6B&currStreakLabel=2196F3" width="60%"/>
 </p>
-
 ---
 
 ### 🤝 Connect with Me
