@@ -55,15 +55,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChapaBandara&theme=midnight_purple" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&theme=midnight-purple&hide_border=true&layout=compact&langs_count=6" width="40%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=midnight_purple" width="31%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChapaBandara&theme=midnight_purple&utcOffset=5.5" width="31%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=midnight_purple" width="31%"/>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=ChapaBandara&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChapaBandara&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8)
+<img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>
 ---
