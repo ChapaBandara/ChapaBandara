@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:2196F3,100:0D1117&height=120&text=Flutter%20%7C%20PHP%20%7C%20Firebase&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=55" width="80%"/>
 </p>
 
 ---
