@@ -1,16 +1,24 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/main/github_cover.png" alt="banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Chapa Bandara</h1>
-<h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate </h3>
+<h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate 🇱🇰</h3>
 
 <br/>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+User-Centred+Digital+Products;Flutter+%7C+PHP+%7C+Firebase+Developer;From+UI+Prototype+to+Deployment;CS+Undergraduate+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Reading for BSc (Hons) Computer Science 
+- 🎓 Reading for BSc (Hons) Computer Science — University of Bedfordshire
 - 💡 Passionate about building clean, user-centred digital products
+- 📱 Currently developing a Flutter/Firebase Healthcare & Medication App
 - 🔧 Experienced across mobile, web, and desktop — from UI prototype to deployment
+- 🎵 ABRSM certified — music sharpens the discipline behind the code
 
 ---
 
@@ -38,15 +46,19 @@
 |--------|-------------|------|
 | [🎮 HeartMatch](https://github.com/ChapaBandara/heartmatch-multiplayer-game-system) | Multiplayer card game with real-time leaderboard & tournaments | PHP, MySQL, JS |
 | [🎓 Student Record System](https://github.com/ChapaBandara/student-record-management-system) | Full-stack admin system with CRUD & RESTful API | Node.js, Bootstrap, AJAX |
-
+| 💊 Health & Medication App | Flutter/Firebase healthcare app with AI reminders *(ongoing)* | Flutter, Firebase |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
