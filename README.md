@@ -54,12 +54,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapaBandara&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChapaBandara&theme=tokyonight" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChapaBandara&theme=tokyonight" width="31%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChapaBandara&theme=tokyonight" width="31%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 ---
 
