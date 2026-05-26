@@ -19,35 +19,11 @@
 
 ### 🛠️ Tech Stack
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,dart,html,css&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,js,php,dart,html,css,flutter,nodejs,bootstrap,mysql,firebase,git,github,figma,vscode,androidstudio&perline=8&theme=dark" />
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nodejs,bootstrap&perline=6&theme=dark" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=6&theme=dark" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,idea&perline=6&theme=dark" />
-  </a>
-</p>
-
-
 
 
 
