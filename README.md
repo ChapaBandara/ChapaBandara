@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/main/github_cover.png" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Chapa Bandara</h1>
+<h1 align="center">Hi, I'm Chapa Bandara</h1>
 <h3 align="center">Flutter & Full-Stack Developer　｜　UI/UX Design　｜　CS Undergraduate </h3>
 
 <br/>
 
 
 
-### 🧑‍💻 About Me
+### About Me
 - 🎓 Reading for BSc (Hons) Computer Science 
 - 💡 Passionate about building clean, user-centred digital products
 - 🔧 Experienced across mobile, web, and desktop — from UI prototype to deployment
