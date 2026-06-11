@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
 
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ChapaBandara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
@@ -40,7 +40,7 @@
 </p>
 
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/buwanaji-chapa-bandara-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
