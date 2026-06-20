@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f15d893f-85f0-4128-b63d-c27f42368e47" /><p align="center">
+
   <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/main/github_cover.png" alt="banner" width="100%"/>
 </p>
 
