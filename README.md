@@ -1,5 +1,4 @@
-
-  <img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/main/github_cover.png" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/ChapaBandara/ChapaBandara/main/github_cover.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Chapa Bandara</h1>
@@ -21,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,dart,html,css,flutter,nodejs,bootstrap,mysql,firebase,git,github,figma,vscode,androidstudio&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,dart,python,html,css,flutter,react,nodejs,express,dotnet,bootstrap,tailwind,mysql,mongodb,firebase,git,github,figma,vscode,androidstudio,postman,linux&perline=8&theme=dark" />
   </a>
 </p>
 
@@ -36,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 </p>
 
 
