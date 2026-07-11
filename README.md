@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChapaBandara&theme=tokyonight&hide_border=true&timezone=Asia%2FColombo&cache_seconds=1" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChapaBandara&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ### Connect with Me
